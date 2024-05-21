@@ -1,0 +1,16 @@
+version: '3'
+services:
+  db-dev:
+    container_name: delivery-postgresql-db
+    image: "postgres"
+    restart: unless-stopped
+    ports:
+      - '5432:5432'
+    environment:
+      - POSTGRES_USER=${DATABASE_USER}
+      - POSTGRES_PASSWORD=${DATABASE_PASSWORD}
+    volumes:
+      - database-data:/var/lib/postgresql/data/ 
+volumes:
+  database-data:
+    
