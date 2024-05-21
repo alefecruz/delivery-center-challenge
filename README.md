@@ -1,15 +1,3 @@
-# DeliveryCenterParsingApi
-
-To start your Phoenix server:
-
-  * Install dependencies with `mix deps.get`
-  * Create and migrate your database with `mix ecto.setup`
-  * Start Phoenix endpoint with `mix phx.server`
-
-Now you can visit [`localhost:4000`](http://localhost:4000) from your browser.
-
-Ready to run in production? Please [check our deployment guides](https://hexdocs.pm/phoenix/deployment.html).
-
 <div  align="center">
   <h3>
    Desagio Delivery Center Parsing API
@@ -51,6 +39,7 @@ $ mix ecto.setup
 $ mix phx.server
 ```
 
+Acesse o servidor pelo endpoint [`localhost:4000`](http://localhost:4000).
 ---
 
 Desafio feito com ♥ by Álefe Cruz :wave: [Acesse meu portifólio!](https://www.alefecruz.com.br/)
