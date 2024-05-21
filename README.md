@@ -13,7 +13,6 @@
   <a href="https://github.com/alefecruz/delivery-center-challenge/issues">
     <img alt="Repository issues" src="https://img.shields.io/github/issues/alefecruz/delivery-center-challenge.svg">
   </a>
-  <img alt="GitHub" src="https://img.shields.io/github/license/alefecruz/delivery-center-challenge.svg">
 </p>
 
 <p align="center">“Sua única limitação é você mesmo”!</blockquote>
